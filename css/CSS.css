@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img1{
+    position: relative;
+}
+.header ul{
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.header ul li{
+    font-size: larger;
+    margin:0 40px 0;
+    float: left;
+    list-style: none;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+}
+.header a:hover{
+    color: black;
+}
+.c1{
+    color: blue;
+    font-size: larger;
+    position: absolute;
+    top: 20px;
+    right: 150px;
+}
+.c2{
+    color: blue;
+    font-size: larger;
+    position: absolute;
+    top: 40px;
+    right: 100px;
+}
+.medium{
+    width: 100%;
+    height: 500px;
+    background-color:white;
+}
+.my{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 2%;
+}
+.en{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2%;
+    color: dimgrey;
+}
+.im{
+    float: left;
+}
+.im1,.im2,.im3,.im4{
+    margin: 2%;
+    width: 21%;
+    float: left;
+}
+.p1{
+    color: rebeccapurple;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+.w1{
+    margin-right: 15px;
+    font-size: 30px;
+    float: left;
+    margin-left: 20px;
+    color: white;
+}
+.w2{
+    margin-top: 15px;
+    font-size: 15px;
+    float: left;
+    color: white;
+}
+.wz{
+    color: white;
+    width: 100%;
+    height: 60px;
+}
+.d1,.d2,.d3,.d4{
+    color: white;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 20px;
+    margin-left: 120px;
+}
+.line{
+    width: 250px;
+    height:2px;
+    background-color: brown;
+}
+.line2{
+    position: absolute;
+    width: 1000px;
+    height: 2px;
+    background-color:red;
+    top:400px;
+    margin-left: 200px;
+}
+.end{
+    float: left;
+}
+.end1 li{
+    color: aliceblue;
+    float:left;
+    list-style: none;
+    margin-left: 160px;
+}
+.copyright{
+    position: absolute;
+    color: darkblue;
+    float: left;
+    top:450px;
+    margin-left: 600px;
+}
